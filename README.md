@@ -1,2 +1,2 @@
 # Demo
-# This is demo repository, testing, exploring, learning feature of github
+# This is demo repository, testing, exploring, learning features of github and creating dev projects
